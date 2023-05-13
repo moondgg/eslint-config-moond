@@ -1,5 +1,5 @@
 {
-  "name": "@moond/eslint-config",
+  "name": "@moondgg/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration used by Moond.",
   "author": "David4i <notdavidzin@gmail.com>",
